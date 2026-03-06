@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola 👋 Soy William Latorre
 
-<!--
-**WilliamLatorreC/WilliamLatorreC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Full Stack Junior
 
-Here are some ideas to get you started:
+Tecnologías principales:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- React
+- Node.js
+- MySQL
+- Docker
+
+Intereses:
+
+- Backend Development
+- Software Architecture
+- Cybersecurity
+
+📫 Contacto:
+
+LinkedIn: http://www.linkedin.com/in/william-andres-latorre-cifuentes-b1a222261
